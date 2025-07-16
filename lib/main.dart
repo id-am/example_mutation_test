@@ -1,5 +1,5 @@
 import 'package:example_mutation_test/models/operation_details.dart';
-import 'package:example_mutation_test/operations.dart';
+import 'package:example_mutation_test/enums/operations.dart';
 import 'package:example_mutation_test/utils/enums.dart';
 import 'package:example_mutation_test/widgets/operations_card.dart';
 import 'package:example_mutation_test/widgets/possible_mutations.dart';

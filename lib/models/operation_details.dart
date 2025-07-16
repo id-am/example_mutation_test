@@ -1,4 +1,4 @@
-import 'package:example_mutation_test/operations.dart';
+import 'package:example_mutation_test/enums/operations.dart';
 
 class OperationDetails {
   final Operations operation;

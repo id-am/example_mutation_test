@@ -1,5 +1,5 @@
 import 'package:example_mutation_test/models/operation_details.dart';
-import 'package:example_mutation_test/operations.dart';
+import 'package:example_mutation_test/enums/operations.dart';
 import 'package:flutter/material.dart';
 
 class PossibleMutations extends StatelessWidget {
